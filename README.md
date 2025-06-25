@@ -1,1 +1,3 @@
-블럭으로 배우는 영어문장
+# Block English
+
+A simple web app for practicing English sentence blocks.
